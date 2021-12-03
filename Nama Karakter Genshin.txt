@@ -3,5 +3,9 @@ Nama-nama karakter genshin impact :
 - Jean
 - Barbara
 - Rosaria
+- Eula
+- Amber
+- Bennet
 - Kaeya
 - Diluc
+- Albedo
