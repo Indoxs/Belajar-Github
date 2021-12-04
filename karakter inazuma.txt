@@ -4,3 +4,10 @@ Menambahkan karakter baru inazuma :
 3. Kamisato Ayaka
 4. Yoimiya
 5. Kokomi
+
+Beberapa karakter liyue termasuk adeptus:
+1. Xiao
+2. Ganyu
+3. Keqing
+4. Zhongli (Archon)
+5. Shenhe
